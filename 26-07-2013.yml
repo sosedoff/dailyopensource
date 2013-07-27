@@ -1,0 +1,26 @@
+projects:
+  - title: golang-stuff
+    description: Collection of interesting Go libraries
+    url: https://github.com/mindreframer/golang-stuff/
+  - title: groupcache
+    description: "Caching and cache-filling library, intended as a replacement for memcached in many cases"
+    url: https://github.com/golang/groupcache
+  - title: swift
+    description: "Go language interface to Swift / Openstack Object Storage / Rackspace cloud files"
+    url: "https://github.com/ncw/swift"
+  - title: go-workers
+    description: "Sidekiq compatible background workers in golang"
+    url: "https://github.com/jrallison/go-workers"
+  - title: oauthd
+    description: "The OAuth Daemon is the open source version of the OAuth.io core"
+    url: https://github.com/oauth-io/oauthd
+
+reads:
+  - title: My RabbitMQ setup for notifications
+    url: http://andreim.net/2013/07/my-rabbitmq-setup-for-notifications
+  - title: Simple API with Nginx and PostgreSQL
+    url: http://rny.io/nginx/postgresql/2013/07/26/simple-api-with-nginx-and-postgresql.html
+  - title: Porting dl.google.com from C++ to Go
+    url: http://talks.golang.org/2013/oscon-dl.slide
+  - title: "Android Bug Superior to Master Key"
+    url: "http://www.saurik.com/id/18"

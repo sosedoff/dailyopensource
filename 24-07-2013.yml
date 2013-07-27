@@ -1,0 +1,24 @@
+projects:
+  - title: Ractive
+    description: "Next-generation DOM manipulation"
+    url: https://github.com/Rich-Harris/Ractive
+  - title: redirect-blame
+    description: "It's your fault my site is down"
+    url: https://github.com/will/redirect_blame
+  - title: escort
+    description: "A library that makes building command-line apps in ruby so easy, you'll feel like an expert is guiding you through it"
+    url: https://github.com/skorks/escort
+  - title: rubocop
+    description: "An experimental Ruby code analyzer, based on the community Ruby style guide."
+    url: https://github.com/bbatsov/rubocop
+  - title: packer
+    description: Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+    url: https://github.com/mitchellh/packer
+
+reads:
+  - title: "On Distributing Command Line Applications: Why I Switched From Ruby to Go"
+    url: http://codegangsta.io/blog/2013/07/21/creating-cli-applications-in-go/
+  - title: I’m learning to code by building 180 websites in 180 days. Today is day 115.
+    url: http://blog.jenniferdewalt.com/post/56319597560/im-learning-to-code-by-building-180-websites-in-180
+  - title: Twilio incident and Redis
+    url: http://antirez.com/news/60
