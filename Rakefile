@@ -1,6 +1,6 @@
 require 'redcarpet'
 
-task :html do
+task :index do
   buffer   = ""
   markdown = Redcarpet::Markdown.new(Redcarpet::Render::HTML)
 
